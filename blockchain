@@ -1,4 +1,7 @@
 // Example of a full JavaScript program that includes the blockchain implementation with added features such as a custom coin name, total supply, mining reward, mining interval, halving period, and wallet functionality with public and private key generation and transactions:
+// This code is part of my ebook "Build your own Blockchain in JS"
+// Check URL in readme
+// Sankar Srinivasan petra.srini@gmail.com 
 
 const SHA256 = require('crypto-js/sha256');
 const EC = require('elliptic').ec;
